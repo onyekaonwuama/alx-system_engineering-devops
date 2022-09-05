@@ -1,0 +1,1 @@
+scripts on redirections and special characters
