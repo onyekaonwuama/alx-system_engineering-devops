@@ -1,1 +1,1 @@
-Bash Projects
+Directory of scripts for redirections and special characters

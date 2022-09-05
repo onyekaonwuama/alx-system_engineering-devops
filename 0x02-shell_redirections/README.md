@@ -1,1 +1,1 @@
-scripts on redirections and special characters
+scripts of redirections and special characters
