@@ -1,1 +1,1 @@
-Directory of scripts for redirections and special characters
+sytem devops command
