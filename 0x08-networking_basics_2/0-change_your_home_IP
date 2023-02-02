@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# A script to change localhost addresses
+
+#makes a copy of the file /etc/hosts and saves it in the user's home directory with the name hosts.new.
+cp /etc/hosts ~/hosts.new
+echo "127.0.0.2		localhost" > ~/hosts.new
+echo "8.8.8.8		facebook.com" >> ~/hosts.new
+cp -f ~/hosts.new /etc/hosts
